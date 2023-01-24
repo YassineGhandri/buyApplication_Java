@@ -1,0 +1,10 @@
+
+f
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(ÉĞ¯‰
+
+java:S1845
+"uRename method "getname" to prevent any misunderstanding/clash with method "getName" defined in superclass "Customer".(„ğ¡¬úÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ŞÎüÿÿÿÿ
+J
+java:S1172"/Remove this unused method parameter "ccNumber".(÷Ğœìıÿÿÿÿ
