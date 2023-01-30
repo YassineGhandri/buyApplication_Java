@@ -1,1 +1,1 @@
-# sale and purchase application done with Java 11
+# sale and purchase application Java 11
